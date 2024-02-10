@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Shaders/.vs
+Shaders/Binaries
+Shaders/Saved
+Shaders/Intermediate/AssetRegistryCache
+Shaders/Intermediate/Build
+Shaders/Intermediate/Config
+Shaders/Intermediate/ReimportCache
+Shaders/Intermediate/ShaderAutogen
+Shaders/Intermediate/CachedAssetRegistry.bin
